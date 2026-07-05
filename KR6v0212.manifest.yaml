@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0212_000.yaml, hash: 'sha256:4dac73c86512f1bc3972eb56dd7d281a8c8309ccffb61883bca1199048b0416e'}
-  - {seq: 1, filename: KR6v0212_001.yaml, hash: 'sha256:0bf8750271ce8b1cfda5143bff085c76d69ad7a74b8abbaa4e401a30b3da8799'}
+  - {seq: 1, filename: KR6v0212_001.yaml, hash: 'sha256:044e70e5f6a4fbc229a6e523881da5f0d95fd3c4320c214dd61002fd96186f8c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0212_001.markers.yaml, hash: 'sha256:5e49cdc73e8a31d239f33c2b4a225ee8e62e4fb99d489b55b8d1db6825498bf7'}
+  - {seq: 0, role: markers, filename: assets/KR6v0212_000.markers.yaml, hash: 'sha256:159f9f762f0f9aed00b9115e804dc5799fe24d09efc11af88b51b83ce6ea42d0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0212_001.markers.yaml, hash: 'sha256:cc4a217705ab23c28f9ae5f4bd5285719861f7a9b6c56a924abd8cb99cfa12f3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -56,7 +57,4 @@ table_of_contents:
   label: 之二　碑陰
   type: mulu
   level: 1
-hash: sha256:3911f3d3261a8b5d9943fd7df55774e15e7db94ec93f4e0eb15111bd7ca82a73
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:51a875746bd23438320291c4b8cc2a816ac8c1ad1cc9b65fe7429f1c05a84c39
